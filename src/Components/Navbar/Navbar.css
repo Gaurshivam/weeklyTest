@@ -1,0 +1,27 @@
+.Nav{
+    width: 100%;
+    background-color: black;
+    display: flex;
+}
+
+.title{
+    width: 40%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    color: white;
+    margin-right: 60px;
+    text-decoration: none;
+    font-size: 18px;
+}
